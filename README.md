@@ -82,7 +82,7 @@ python Ms17Mod.py
 ## 🗂️ Struttura del progetto
 
 ```
-📦 3ds-modding-tool/
+📦 NRETRUOGMODDER/
 ├── Ms17Mod.py                # Script principale
 ├── installa_dipendenze.py    # Installa automaticamente le dipendenze
 ├── downloads/                # File scaricati automaticamente
