@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Python-3.7%2B-blue?logo=python]" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" alt="OS">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
   <img src="https://img.shields.io/github/license/3DSModdingTeam/3ds-modding-tool" alt="License">
