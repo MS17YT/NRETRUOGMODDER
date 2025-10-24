@@ -128,7 +128,7 @@ Utilizzabile **solo per scopi educativi** e di preservazione.
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/3ds_banner.png" alt="3DS Modding Tool Banner" width="700">
+  <img src="https://raw.githubusercontent.com/MS17YT/NRETRUOGMODDER/refs/heads/main/Screenshot%202025-10-24%20202137.png" alt="3DS Modding Tool Banner" width="700">
 </p>
 
 <p align="center">
