@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7%2B-blue?logo=python" alt="Python">
+  <img src="[https://img.shields.io/badge/Python-3.7%2B-blue?logo=python]" alt="Python">
   <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" alt="OS">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
   <img src="https://img.shields.io/github/license/3DSModdingTeam/3ds-modding-tool" alt="License">
@@ -42,8 +42,8 @@
 1️⃣ Clona il repository o scaricalo come `.zip`:
 
 ```bash
-git clone https://github.com/<tuo-utente>/3ds-modding-tool.git
-cd 3ds-modding-tool
+git clone https://github.com/MS17YT/NRETRUOGMODDER.git
+cd NRETRUOGMODDER
 ```
 
 2️⃣ Installa automaticamente le dipendenze:
