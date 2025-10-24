@@ -1,6 +1,6 @@
 # 🎮 3DS Modding Tool (Ms17Mod)
 
-> 🧩 **Tool completo, interattivo e automatizzato** per il *modding di console Nintendo 3DS / 2DS*, scritto interamente in **Python 3**.  
+> 🧩 **Tool completo, interattivo e automatizzato** per il *modding di console Nintendo 3DS / 2DS*, scritto interamente in **Python**.  
 > Include download automatico, guida passo‑passo, backup, strumenti avanzati e gestione completa della scheda SD.
 
 ---
